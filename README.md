@@ -12,5 +12,5 @@
     python WGAN-CNN.py
     
 ## 实验结果
-![](https://github.com/SalvatoreHe/WGAN/img_WGAN/fake_images-600.png)
+![](https://github.com/SalvatoreHe/WGAN/raw/master/img_WGAN/fake_images-600.png)
 
