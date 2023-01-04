@@ -14,5 +14,5 @@
 ## 实验结果
 运行WGAN后实现的图像生成结果
 
-![](https://github.com/SalvatoreHe/WGAN/blob/main/img_WGAN/fake_images-600.png))
+![](https://github.com/SalvatoreHe/WGAN/blob/main/img_WGAN/fake_images-600.png)
 
